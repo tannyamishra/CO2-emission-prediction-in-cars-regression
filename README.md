@@ -9,14 +9,22 @@
 ## Methods and Technologies used:
  
  1.Exploratory Data Analysis
+ 
  2.Data visualisation
+ 
  3.Machine learning
  
- Python
- Pandas, NumPy
- Scikit-learn
- Matplotlib
- Seaborn
+ #### Technologies:
+ 
+ 1.Python
+ 
+ 2.Pandas, NumPy
+ 
+ 3.Scikit-learn
+ 
+ 4.Matplotlib
+ 
+ 5.Seaborn
  
 ## Machine learning algos used:
 
