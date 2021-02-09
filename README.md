@@ -37,7 +37,7 @@
   Least Absolute Shrinkage and Selection Operator Regression(Lasso) is a regularized version of linear regression which adds a regularization term to the cost function using l1 norm or Manhattan norm.
 ### Ridge Regression:
     
-    Similar to lasso regression but uses l2 norm or Eucledian norm of the weight vector.
+   Similar to lasso regression but uses l2 norm or Eucledian norm of the weight vector.
 
 ### Decision Tree :
    
@@ -54,14 +54,14 @@
 ## Metrics used for model evaluation:
   ### 1. RMSE(Root Mean Squared Error):
           
-          RMSE is the standard deviation of the prediction errors called residuals. Residuals point to the randomness of data points from the regression line. RMSE tells us how concentrated the data is around the regression line.
+   RMSE is the standard deviation of the prediction errors called residuals. Residuals point to the randomness of data points from the regression line. RMSE tells us how concentrated the data is around the regression line.
   
   ### 2. MAE(Mean Absolute Error):
         
-        MAE measures the absolute distance between the real data and predicted data.
+   MAE measures the absolute distance between the real data and predicted data.
    
    ### 3. R2 score:
          
-         R-square is another statistical measure which indicates how well the regression predictions approximate the real data points.
+   R-Square is another statistical measure which indicates how well the regression predictions approximate the real data points.
 
  
