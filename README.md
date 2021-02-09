@@ -1,5 +1,6 @@
 # CO2-emission-prediction-in-cars-regression
 Exploratory Data Analysis, Machine learning, supervised learning, regression
+
 Project Introduction
   This project is based on a kaggle dataset. Objective of the project is to predict the amount of carbon dioxide emitting from different cars using supervised learning techniques (specifically regression is used here). Regression is a widely used learning algorithm which helps in predicting continuous numerical outputs.
   
